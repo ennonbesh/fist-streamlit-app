@@ -1,0 +1,2 @@
+# create a file, name it as requirements.txt   . Insert the following codes:
+openai==0.28
